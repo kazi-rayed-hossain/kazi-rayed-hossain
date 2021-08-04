@@ -1,4 +1,4 @@
-### Hi , I'm RAYED  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi , I'm RAYED  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 Hello, I'm Kazi Rayed Hossain. I'm a computer science fresh graduate.
 
@@ -15,4 +15,17 @@ Hello, I'm Kazi Rayed Hossain. I'm a computer science fresh graduate.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-<image src ="https://github-readme-stats.vercel.app/api?username=kazi-rayed-hossain&&show_icons=true&titel_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
+<br />
+<br />
+
+  
+  
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kazi-rayed-hossain&show_icons=true&theme=gotham" alt="Kazi Rayed Hossain" />
