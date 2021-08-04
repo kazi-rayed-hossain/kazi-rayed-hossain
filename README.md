@@ -50,10 +50,11 @@ Hello, I'm Kazi Rayed Hossain. I'm a computer science graduate.
 ## &#x1f4c8; GitHub Stats
 ---
 
-<a href="https://github.com/kazi-rayed-hossain">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-rayed-hossain&show_icons=true&theme=gotham" />
-</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-rayed-hossain&show_icons=true&theme=gotham&langs_count=8" />
+</a>
 <a href="https://github.com/kazi-rayed-hossain">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kazi-rayed-hossain&show_icons=true&theme=gotham" alt="Kazi Rayed Hossain" />
 </a>
