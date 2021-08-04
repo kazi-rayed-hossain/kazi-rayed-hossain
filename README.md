@@ -16,6 +16,7 @@ Hello, I'm Kazi Rayed Hossain. I'm a computer science fresh graduate.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -26,6 +27,17 @@ Hello, I'm Kazi Rayed Hossain. I'm a computer science fresh graduate.
 
   
   
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kazi-rayed-hossain&show_icons=true&theme=gotham" alt="Kazi Rayed Hossain" />
+  
+  
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/kazi-rayed-hossain">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-rayed-hossain&show_icons=true&theme=gotham" />
+</a>
+
+<a href="https://github.com/kazi-rayed-hossain">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kazi-rayed-hossain&show_icons=true&theme=gotham" alt="Kazi Rayed Hossain" />
+</a>
