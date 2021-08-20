@@ -53,9 +53,7 @@ Hello, I'm Kazi Rayed Hossain. I'm a computer science graduate.
 ## &#x1f4c8; GitHub Stats
 ---
 
-
-
-<a href="https://github.com/kazi-rayed-hossain">
+<!-- <a href="https://github.com/kazi-rayed-hossain">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-rayed-hossain&show_icons=true&theme=gotham" />
 </a>
 
@@ -63,9 +61,7 @@ Hello, I'm Kazi Rayed Hossain. I'm a computer science graduate.
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kazi-rayed-hossain&show_icons=true&theme=gotham" alt="Kazi Rayed Hossain" />
 </a>
 <div align="center">
-
-  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kazi-rayed-hossain&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="kazi-rayed-hossain :: Wakatime Stats" /></p>
+ -->
 
 <p align="center">
    <table>
@@ -74,8 +70,14 @@ Hello, I'm Kazi Rayed Hossain. I'm a computer science graduate.
        <th>Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="kazi-rayed-hossain :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=kazi-rayed-hossain&show_icons=true&theme=dark"> </td>
-       <td><img alt="kazi-rayed-hossain :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-rayed-hossain&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+       <td>
+         <img alt="kazi-rayed-hossain :: Profile Stats" 
+              src="https://github-readme-stats.vercel.app/api?username=kazi-rayed-hossain&show_icons=true&theme=dark"> 
+       </td>
+       <td>
+         <img alt="kazi-rayed-hossain :: Top Langs]" 
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-rayed-hossain&langs_count=10&theme=tokyonight&layout=compact&hide=html"> 
+       </td>
      </tr>
    </table>
 </p>  
