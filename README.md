@@ -7,7 +7,7 @@
 ---
 ****Hello, I'm Kazi Rayed Hossain. I'm a computer science graduate.****
 
-:mailbox: Reach me out!
+## :mailbox: Reach me out!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-rayed_hossain-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayed-hossain/) 
