@@ -17,7 +17,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Rayed_248-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Rayed_248) 
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning [flutter](https://flutter.dev/docs) 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
