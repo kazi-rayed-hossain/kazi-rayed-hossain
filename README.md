@@ -1,5 +1,5 @@
 # Hi , I'm RAYED  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazi-rayed-hossain&label=Profile%20views&color=129e00&style=plastic" alt="kazi-rayed-hossain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazi-rayed-hossain&label=Profile%20views&color=4078c0&style=plastic" alt="kazi-rayed-hossain" /> </p>
 <img src="https://github.com/kazi-rayed-hossain/kazi-rayed-hossain/blob/01e2b89b3e50b499f3cfb406e06410507731e759/rayed.webp" width="100" height="120" >
 <img align="right" alt="Coding"  src="https://github.com/kazi-rayed-hossain/kazi-rayed-hossain/blob/f0299ca30f66e4c6aee5b4e3a26579c419963678/code.gif?raw=true" width="500" height="320" >
 <br />
@@ -8,7 +8,6 @@
 ****Hello, I'm Kazi Rayed Hossain. I'm a computer science graduate.****
 
 ## :mailbox: Reach me out!
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-rayed_hossain-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayed-hossain/) 
 [![Instagram Badge](https://img.shields.io/badge/-@iam_rayed-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/iam_rayed)
