@@ -6,7 +6,7 @@
 <br />
 
 ---
-****Hello, I'm Kazi Rayed Hossain. I'm a computer science graduate.****
+*Hello, I'm Kazi Rayed Hossain. I'm a computer science graduate.*
 
 ## :mailbox: Reach me out!
 
