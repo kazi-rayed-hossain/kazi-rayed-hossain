@@ -42,7 +42,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" /></code>
 <code><img height="20" src="https://algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg" /></code>
-<code><img height="20" src="https://www.dtekitinnovations.co.uk/wp-content/uploads/2020/06/power-bi-1.jpg" /></code>
+<code><img height="20" src="https://cdn-dhhph.nitrocdn.com/YwrWfrMMnPrQoiMcCnngShsqFHLItupA/assets/static/optimized/rev-c79781d/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" /></code>
 
 
 <br />
