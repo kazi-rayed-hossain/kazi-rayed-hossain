@@ -1,4 +1,4 @@
-# Hi , I'm RAYED  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="12px" alt="hi">
+# Hi , I'm RAYED  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="6px" alt="hi">
 <img align="right" alt="Coding"  src="https://github.com/kazi-rayed-hossain/kazi-rayed-hossain/blob/f0299ca30f66e4c6aee5b4e3a26579c419963678/code.gif?raw=true" width="500" height="320" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazi-rayed-hossain&label=Profile%20views&color=4078c0&style=plastic" alt="kazi-rayed-hossain" /> </p>
 <img src="https://github.com/kazi-rayed-hossain/kazi-rayed-hossain/blob/01e2b89b3e50b499f3cfb406e06410507731e759/rayed.webp" width="100" height="120" >
